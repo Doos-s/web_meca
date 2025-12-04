@@ -451,8 +451,9 @@
                 <div class="product-rating">
                     ⭐⭐⭐⭐☆ <span>(65)</span>
                 </div>
-
+                
                 <button class="btn-cart">🛒</button>
+                 <button>  <a href="productos.php">ver mas productos</a> </button>
             </div>
 
         </div>
