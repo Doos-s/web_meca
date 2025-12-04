@@ -283,8 +283,8 @@
         </div>
     </div>
 
-    <a href="#lecciones">Lecciones</a>
-    <a href="#pruebas">Pruebas</a>
+    <a href="productos.php">Productos</a>
+  
     <a href="#blog">Blog</a>
     <a href="#contacto">Contacto</a>
 </nav>
