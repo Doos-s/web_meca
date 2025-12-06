@@ -146,55 +146,29 @@ Gracias a tu donación, podemos seguir creando contenido de calidad para que má
 
                     <div class="course-footer">
                         <span class="course-price">GRATIS!</span>
-                        <button class="btn-view" onclick="abrirDonacion('https://www.edclub.com/sportal/program-54.game')">ver</button>
+                        <button class="btn-view" onclick="abrirDonacion('https://www.edclub.com/sportal/program-54.game')">ir</button>
                     </div>
                 </div>
             </div>
             <div class="course-card">
                 <div class="course-image">
-                    <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600">
+                    <img src="https://www.artypist.com/images/help/screenshots/small/typingexercise_es.png">
                     <button class="favorite-btn" onclick="toggleFavorite(this)">♡</button>
                 </div>
                 <div class="course-content">
-                    <h3 class="course-title">Mecanografía para Principiantes</h3>
-                    <p class="course-description">Aprende la posición correcta de los dedos para escribir sin mirar.</p>
+                    <h3 class="course-title">ARTypist</h3>
+                    <p class="course-description">El sitio idóneo para aprender mecanografía y mejorar tu velocidad
+
+</p>
 
                     <div class="course-footer">
-                        <span class="course-price">$99.00</span>
-                        <button class="btn-view" onclick="abrirDonacion('https://www.edclub.com/sportal/program-54.game')">pagar</button>
+                        <span class="course-price">GRATIS!</span>
+                        <button class="btn-view" onclick="abrirDonacion('artypist.com/es/curso-mecanografia/practicar/1/3')">ir</button>
                     </div>
                 </div>
             </div>
-            <div class="course-card">
-                <div class="course-image">
-                    <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600">
-                    <button class="favorite-btn" onclick="toggleFavorite(this)">♡</button>
-                </div>
-                <div class="course-content">
-                    <h3 class="course-title">Mecanografía para Principiantes</h3>
-                    <p class="course-description">Aprende la posición correcta de los dedos para escribir sin mirar.</p>
-
-                    <div class="course-footer">
-                        <span class="course-price">$99.00</span>
-                        <button class="btn-view" onclick="abrirDonacion('https://www.edclub.com/sportal/program-54.game')">+ Ver</button>
-                    </div>
-                </div>
-            </div>
-            <div class="course-card">
-                <div class="course-image">
-                    <img src="https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600">
-                    <button class="favorite-btn" onclick="toggleFavorite(this)">♡</button>
-                </div>
-                <div class="course-content">
-                    <h3 class="course-title">Mecanografía para Principiantes</h3>
-                    <p class="course-description">Aprende la posición correcta de los dedos para escribir sin mirar.</p>
-
-                    <div class="course-footer">
-                        <span class="course-price">$99.00</span>
-                        <button class="btn-view" onclick="abrirDonacion('https://www.edclub.com/sportal/program-54.game')">+ Ver</button>
-                    </div>
-                </div>
-            </div>
+            
+            
 
 
 
